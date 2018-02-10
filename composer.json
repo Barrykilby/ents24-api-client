@@ -31,11 +31,7 @@
   "require": {
     "php": ">=5.4.0",
     "guzzle/guzzle": "3.9.2"
-  },
-
-  "require-dev": {
-    "mockery/mockery": "0.9.4",
-    "phpunit/phpunit": "5.1.4"
   }
+
 
 }
