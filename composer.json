@@ -29,8 +29,15 @@
   },
 
   "require": {
-    "guzzle/guzzle": "~3.9.2"
-  }
+"php": ">=5.4.0",
+    "guzzle/guzzle": "dev-master",
+},
+"repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/Barrykilby/guzzle3.git"
+    }
 
+  ]
 
 }
